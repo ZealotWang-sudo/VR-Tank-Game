@@ -1,0 +1,18 @@
+{
+    "name": "BNG.Editor",
+    "references": [
+        "GUID:c0df697b615e6014baebb7780ca8f47e",
+        "GUID:8ce88d8174d378a4290de4039c276e11"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

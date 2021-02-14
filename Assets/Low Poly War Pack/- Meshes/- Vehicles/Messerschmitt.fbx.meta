@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: ea5bd4d5cbdee42239701c9f9b982f51
+timeCreated: 1532894051
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Airspeed-horsa
+    100002: Airspeed-horsa-door
+    100004: Airspeed-horsa-door_big
+    100006: Airspeed-horsa-front-wheel
+    100008: Airspeed-horsa-wheel-back.L
+    100010: Airspeed-horsa-wheel-back.R
+    100012: Airspeed-horsa.002
+    100014: //RootNode
+    100016: messerschmitt
+    100018: pilot
+    100020: spitfire
+    100022: spitfire-backWheel
+    100024: spitfire-cockpit
+    100026: spitfire-door
+    100028: spitfire-leftWheel
+    100030: spitfire-propeller
+    100032: spitfire-rightWheel
+    100034: messerschmitt.001
+    100036: Circle.003
+    100038: messerschmitt-backWheel
+    100040: messerschmitt-backWheel.001
+    100042: messerschmitt-cabin
+    100044: messerschmitt-cabin.001
+    100046: messerschmitt-leftWheel
+    100048: messerschmitt-leftWheel.001
+    100050: messerschmitt-rightWheel
+    100052: messerschmitt-rightWheel.001
+    100054: parachute_T
+    100056: polySurface3
+    100058: transform1
+    100060: polySurface1
+    400000: Airspeed-horsa
+    400002: Airspeed-horsa-door
+    400004: Airspeed-horsa-door_big
+    400006: Airspeed-horsa-front-wheel
+    400008: Airspeed-horsa-wheel-back.L
+    400010: Airspeed-horsa-wheel-back.R
+    400012: Airspeed-horsa.002
+    400014: //RootNode
+    400016: messerschmitt
+    400018: pilot
+    400020: spitfire
+    400022: spitfire-backWheel
+    400024: spitfire-cockpit
+    400026: spitfire-door
+    400028: spitfire-leftWheel
+    400030: spitfire-propeller
+    400032: spitfire-rightWheel
+    400034: messerschmitt.001
+    400036: Circle.003
+    400038: messerschmitt-backWheel
+    400040: messerschmitt-backWheel.001
+    400042: messerschmitt-cabin
+    400044: messerschmitt-cabin.001
+    400046: messerschmitt-leftWheel
+    400048: messerschmitt-leftWheel.001
+    400050: messerschmitt-rightWheel
+    400052: messerschmitt-rightWheel.001
+    400054: parachute_T
+    400056: polySurface3
+    400058: transform1
+    400060: polySurface1
+    2300000: Airspeed-horsa
+    2300002: Airspeed-horsa-door
+    2300004: Airspeed-horsa-door_big
+    2300006: Airspeed-horsa-front-wheel
+    2300008: Airspeed-horsa-wheel-back.L
+    2300010: Airspeed-horsa-wheel-back.R
+    2300012: Airspeed-horsa.002
+    2300014: messerschmitt
+    2300016: pilot
+    2300018: spitfire
+    2300020: spitfire-backWheel
+    2300022: spitfire-cockpit
+    2300024: spitfire-door
+    2300026: spitfire-leftWheel
+    2300028: spitfire-propeller
+    2300030: spitfire-rightWheel
+    2300032: //RootNode
+    2300034: messerschmitt.001
+    2300036: Circle.003
+    2300038: messerschmitt-backWheel
+    2300040: messerschmitt-backWheel.001
+    2300042: messerschmitt-cabin
+    2300044: messerschmitt-cabin.001
+    2300046: messerschmitt-leftWheel
+    2300048: messerschmitt-leftWheel.001
+    2300050: messerschmitt-rightWheel
+    2300052: messerschmitt-rightWheel.001
+    2300054: parachute_T
+    2300056: polySurface3
+    2300058: polySurface1
+    3300000: Airspeed-horsa
+    3300002: Airspeed-horsa-door
+    3300004: Airspeed-horsa-door_big
+    3300006: Airspeed-horsa-front-wheel
+    3300008: Airspeed-horsa-wheel-back.L
+    3300010: Airspeed-horsa-wheel-back.R
+    3300012: Airspeed-horsa.002
+    3300014: messerschmitt
+    3300016: pilot
+    3300018: spitfire
+    3300020: spitfire-backWheel
+    3300022: spitfire-cockpit
+    3300024: spitfire-door
+    3300026: spitfire-leftWheel
+    3300028: spitfire-propeller
+    3300030: spitfire-rightWheel
+    3300032: //RootNode
+    3300034: messerschmitt.001
+    3300036: Circle.003
+    3300038: messerschmitt-backWheel
+    3300040: messerschmitt-backWheel.001
+    3300042: messerschmitt-cabin
+    3300044: messerschmitt-cabin.001
+    3300046: messerschmitt-leftWheel
+    3300048: messerschmitt-leftWheel.001
+    3300050: messerschmitt-rightWheel
+    3300052: messerschmitt-rightWheel.001
+    3300054: parachute_T
+    3300056: polySurface3
+    3300058: polySurface1
+    4300000: messerschmitt
+    4300002: spitfire
+    4300004: spitfire-backWheel
+    4300006: spitfire-rightWheel
+    4300008: spitfire-leftWheel
+    4300010: spitfire-propeller
+    4300012: pilot
+    4300014: spitfire-cockpit
+    4300016: spitfire-door
+    4300018: Airspeed-horsa.002
+    4300020: Airspeed-horsa
+    4300022: Airspeed-horsa-door_big
+    4300024: Airspeed-horsa-door
+    4300026: Airspeed-horsa-front-wheel
+    4300028: Airspeed-horsa-wheel-back.R
+    4300030: Airspeed-horsa-wheel-back.L
+    4300032: messerschmitt.001
+    4300034: messerschmitt-cabin.001
+    4300036: messerschmitt-leftWheel.001
+    4300038: messerschmitt-rightWheel.001
+    4300040: messerschmitt-backWheel.001
+    4300042: messerschmitt-backWheel
+    4300044: messerschmitt-rightWheel
+    4300046: messerschmitt-leftWheel
+    4300048: messerschmitt-cabin
+    4300050: Circle.003
+    4300052: parachute_T
+    4300054: polySurface3
+    4300056: polySurface1
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

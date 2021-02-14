@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: dab6e4c7bc6e94e8b95bf6741e5d6974
+timeCreated: 1554844970
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: building-big
+    100004: building-big_T
+    100006: building-cafe
+    100008: building-cafe_T
+    100010: building-house-big
+    100012: building-house-middle
+    100014: building-house-middle-broken
+    100016: building-house-middle-broken.002
+    100018: building-house-middle-broken.006
+    100020: building-house-middle-demaged
+    100022: building-house-middle-demolished
+    100024: building-medium
+    100026: bunker-big
+    100028: bunker-big_T
+    100030: cabin-guard
+    100032: cabin-guard.000
+    100034: cabin-guard_T
+    100036: Circle.001
+    100038: crate--wooden-box
+    100040: crate--wooden-box_T
+    100042: crater
+    100044: crater-deep
+    100046: crater-deep_T
+    100048: crater_T
+    100050: Pegasus-bridge_middle
+    100052: Pegasus-bridge_start
+    100054: Pegasus-bridge_start_end
+    100056: pillbox
+    100058: pillbox_T
+    100060: watch-tower
+    100062: watch-tower_T
+    400000: //RootNode
+    400002: building-big
+    400004: building-big_T
+    400006: building-cafe
+    400008: building-cafe_T
+    400010: building-house-big
+    400012: building-house-middle
+    400014: building-house-middle-broken
+    400016: building-house-middle-broken.002
+    400018: building-house-middle-broken.006
+    400020: building-house-middle-demaged
+    400022: building-house-middle-demolished
+    400024: building-medium
+    400026: bunker-big
+    400028: bunker-big_T
+    400030: cabin-guard
+    400032: cabin-guard.000
+    400034: cabin-guard_T
+    400036: Circle.001
+    400038: crate--wooden-box
+    400040: crate--wooden-box_T
+    400042: crater
+    400044: crater-deep
+    400046: crater-deep_T
+    400048: crater_T
+    400050: Pegasus-bridge_middle
+    400052: Pegasus-bridge_start
+    400054: Pegasus-bridge_start_end
+    400056: pillbox
+    400058: pillbox_T
+    400060: watch-tower
+    400062: watch-tower_T
+    2300000: //RootNode
+    2300002: building-big
+    2300004: building-big_T
+    2300006: building-cafe
+    2300008: building-cafe_T
+    2300010: building-house-big
+    2300012: building-house-middle
+    2300014: building-house-middle-broken
+    2300016: building-house-middle-broken.002
+    2300018: building-house-middle-broken.006
+    2300020: building-house-middle-demaged
+    2300022: building-house-middle-demolished
+    2300024: building-medium
+    2300026: bunker-big
+    2300028: bunker-big_T
+    2300030: cabin-guard
+    2300032: cabin-guard.000
+    2300034: cabin-guard_T
+    2300036: Circle.001
+    2300038: crate--wooden-box
+    2300040: crate--wooden-box_T
+    2300042: crater
+    2300044: crater-deep
+    2300046: crater-deep_T
+    2300048: crater_T
+    2300050: Pegasus-bridge_middle
+    2300052: Pegasus-bridge_start
+    2300054: Pegasus-bridge_start_end
+    2300056: pillbox
+    2300058: pillbox_T
+    2300060: watch-tower
+    2300062: watch-tower_T
+    3300000: //RootNode
+    3300002: building-big
+    3300004: building-big_T
+    3300006: building-cafe
+    3300008: building-cafe_T
+    3300010: building-house-big
+    3300012: building-house-middle
+    3300014: building-house-middle-broken
+    3300016: building-house-middle-broken.002
+    3300018: building-house-middle-broken.006
+    3300020: building-house-middle-demaged
+    3300022: building-house-middle-demolished
+    3300024: building-medium
+    3300026: bunker-big
+    3300028: bunker-big_T
+    3300030: cabin-guard
+    3300032: cabin-guard.000
+    3300034: cabin-guard_T
+    3300036: Circle.001
+    3300038: crate--wooden-box
+    3300040: crate--wooden-box_T
+    3300042: crater
+    3300044: crater-deep
+    3300046: crater-deep_T
+    3300048: crater_T
+    3300050: Pegasus-bridge_middle
+    3300052: Pegasus-bridge_start
+    3300054: Pegasus-bridge_start_end
+    3300056: pillbox
+    3300058: pillbox_T
+    3300060: watch-tower
+    3300062: watch-tower_T
+    4300000: building-house-middle-broken
+    4300002: building-house-middle-broken.006
+    4300004: building-house-middle-broken.002
+    4300006: building-house-middle-demaged
+    4300008: building-house-middle-demolished
+    4300010: crater_T
+    4300012: crater
+    4300014: crate--wooden-box_T
+    4300016: crate--wooden-box
+    4300018: crater-deep_T
+    4300020: crater-deep
+    4300022: building-cafe
+    4300024: building-big_T
+    4300026: pillbox
+    4300028: bunker-big_T
+    4300030: bunker-big
+    4300032: cabin-guard
+    4300034: building-house-big
+    4300036: building-medium
+    4300038: building-big
+    4300040: pillbox_T
+    4300042: watch-tower
+    4300044: watch-tower_T
+    4300046: cabin-guard_T
+    4300048: cabin-guard.000
+    4300050: Circle.001
+    4300052: building-cafe_T
+    4300054: building-house-middle
+    4300056: Pegasus-bridge_middle
+    4300058: Pegasus-bridge_start_end
+    4300060: Pegasus-bridge_start
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

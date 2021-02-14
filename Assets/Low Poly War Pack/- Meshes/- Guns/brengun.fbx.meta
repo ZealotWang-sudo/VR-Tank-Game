@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: 7bf6b7b65615948c7a4f6998dd7a97b8
+timeCreated: 1530562333
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: brengun
+    100004: brengun-ammo
+    100006: brengun-stand.L
+    100008: brengun-stand.R
+    100010: tree-lime
+    400000: //RootNode
+    400002: brengun
+    400004: brengun-ammo
+    400006: brengun-stand.L
+    400008: brengun-stand.R
+    400010: tree-lime
+    2300000: //RootNode
+    2300002: brengun
+    2300004: brengun-ammo
+    2300006: brengun-stand.L
+    2300008: brengun-stand.R
+    2300010: tree-lime
+    3300000: //RootNode
+    3300002: brengun
+    3300004: brengun-ammo
+    3300006: brengun-stand.L
+    3300008: brengun-stand.R
+    3300010: tree-lime
+    4300000: brengun
+    4300002: brengun-stand.L
+    4300004: brengun-stand.R
+    4300006: brengun-ammo
+    4300008: tree-lime
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

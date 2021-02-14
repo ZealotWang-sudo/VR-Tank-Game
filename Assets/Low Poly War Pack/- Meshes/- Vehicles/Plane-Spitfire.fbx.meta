@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: a396dbba384eb40518fad31be0448ee8
+timeCreated: 1520975984
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: pilot
+    100002: //RootNode
+    100004: spitfire-backWheel
+    100006: spitfire-glass
+    100008: spitfire-leftWheel
+    100010: spitfire-propeller
+    100012: spitfire-rightWheel
+    100014: spitfire
+    100016: spitfire-door
+    100018: spitfire.001
+    100020: spitfire-cockpit
+    100022: Cube.009
+    100024: Cube.013
+    100026: Cube.014
+    100028: spitfire-propeller.001
+    100030: spitfire-wheelFrontLeft.001
+    100032: spitfire.002
+    100034: spitfire.004
+    100036: spitfire.005
+    100038: spitfire.006
+    100040: spitfire.007
+    100042: EntryPoint
+    100044: Parts
+    400000: pilot
+    400002: //RootNode
+    400004: spitfire-backWheel
+    400006: spitfire-glass
+    400008: spitfire-leftWheel
+    400010: spitfire-propeller
+    400012: spitfire-rightWheel
+    400014: spitfire
+    400016: spitfire-door
+    400018: spitfire.001
+    400020: spitfire-cockpit
+    400022: Cube.009
+    400024: Cube.013
+    400026: Cube.014
+    400028: spitfire-propeller.001
+    400030: spitfire-wheelFrontLeft.001
+    400032: spitfire.002
+    400034: spitfire.004
+    400036: spitfire.005
+    400038: spitfire.006
+    400040: spitfire.007
+    400042: EntryPoint
+    400044: Parts
+    2300000: pilot
+    2300002: //RootNode
+    2300004: spitfire-backWheel
+    2300006: spitfire-glass
+    2300008: spitfire-leftWheel
+    2300010: spitfire-propeller
+    2300012: spitfire-rightWheel
+    2300014: spitfire
+    2300016: spitfire-door
+    2300018: spitfire.001
+    2300020: spitfire-cockpit
+    2300022: Cube.009
+    2300024: Cube.013
+    2300026: Cube.014
+    2300028: spitfire-propeller.001
+    2300030: spitfire-wheelFrontLeft.001
+    2300032: spitfire.002
+    2300034: spitfire.004
+    2300036: spitfire.005
+    2300038: spitfire.006
+    2300040: spitfire.007
+    3300000: pilot
+    3300002: //RootNode
+    3300004: spitfire-backWheel
+    3300006: spitfire-glass
+    3300008: spitfire-leftWheel
+    3300010: spitfire-propeller
+    3300012: spitfire-rightWheel
+    3300014: spitfire
+    3300016: spitfire-door
+    3300018: spitfire.001
+    3300020: spitfire-cockpit
+    3300022: Cube.009
+    3300024: Cube.013
+    3300026: Cube.014
+    3300028: spitfire-propeller.001
+    3300030: spitfire-wheelFrontLeft.001
+    3300032: spitfire.002
+    3300034: spitfire.004
+    3300036: spitfire.005
+    3300038: spitfire.006
+    3300040: spitfire.007
+    4300000: spitfire
+    4300002: spitfire-glass
+    4300004: pilot
+    4300006: spitfire-backWheel
+    4300008: spitfire-propeller
+    4300010: spitfire-leftWheel
+    4300012: spitfire-rightWheel
+    4300014: spitfire-door
+    4300016: spitfire.001
+    4300018: spitfire-cockpit
+    4300020: spitfire.002
+    4300022: Cube.014
+    4300024: spitfire.007
+    4300026: spitfire-propeller.001
+    4300028: spitfire-wheelFrontLeft.001
+    4300030: Cube.013
+    4300032: spitfire.006
+    4300034: spitfire.005
+    4300036: Cube.009
+    4300038: spitfire.004
+    7400000: Soldier_GetInPlane
+    7400002: Soldier_GetOutPlane
+    7400004: Spitfire_GetIn
+    7400006: Spitfire_GetOut
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Spitfire_GetIn
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: EntryPoint
+        weight: 1
+      - path: Parts
+        weight: 1
+      - path: Parts/spitfire-backWheel
+        weight: 1
+      - path: Parts/spitfire-cockpit
+        weight: 1
+      - path: Parts/spitfire-door
+        weight: 1
+      - path: Parts/spitfire-leftWheel
+        weight: 1
+      - path: Parts/spitfire-propeller
+        weight: 1
+      - path: Parts/spitfire-rightWheel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Spitfire_GetOut
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: EntryPoint
+        weight: 1
+      - path: Parts
+        weight: 1
+      - path: Parts/spitfire-backWheel
+        weight: 1
+      - path: Parts/spitfire-cockpit
+        weight: 1
+      - path: Parts/spitfire-door
+        weight: 1
+      - path: Parts/spitfire-leftWheel
+        weight: 1
+      - path: Parts/spitfire-propeller
+        weight: 1
+      - path: Parts/spitfire-rightWheel
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

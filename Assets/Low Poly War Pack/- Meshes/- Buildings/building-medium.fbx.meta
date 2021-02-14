@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: f60eb56ea6f5b42118456aa7a63561ed
+timeCreated: 1533296651
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: building-big
+    100004: building-cafe_T
+    100006: building-medium
+    100008: bunker-small_T
+    100010: cabin-guard.000
+    100012: cabin-guard_T
+    100014: Circle.001
+    100016: Pegasus-bridge
+    100018: Pegasus-bridge_middle
+    100020: Pegasus-bridge_start
+    100022: Pegasus-bridge_start_end
+    100024: pillbox.002
+    100026: pillbox_T
+    100028: Plane.054
+    100030: watch-tower.001
+    100032: watch-tower_T
+    400000: //RootNode
+    400002: building-big
+    400004: building-cafe_T
+    400006: building-medium
+    400008: bunker-small_T
+    400010: cabin-guard.000
+    400012: cabin-guard_T
+    400014: Circle.001
+    400016: Pegasus-bridge
+    400018: Pegasus-bridge_middle
+    400020: Pegasus-bridge_start
+    400022: Pegasus-bridge_start_end
+    400024: pillbox.002
+    400026: pillbox_T
+    400028: Plane.054
+    400030: watch-tower.001
+    400032: watch-tower_T
+    2300000: //RootNode
+    2300002: building-big
+    2300004: building-cafe_T
+    2300006: building-medium
+    2300008: bunker-small_T
+    2300010: cabin-guard.000
+    2300012: cabin-guard_T
+    2300014: Circle.001
+    2300016: Pegasus-bridge_middle
+    2300018: Pegasus-bridge_start
+    2300020: Pegasus-bridge_start_end
+    2300022: pillbox.002
+    2300024: pillbox_T
+    2300026: Plane.054
+    2300028: watch-tower.001
+    2300030: watch-tower_T
+    3300000: //RootNode
+    3300002: building-big
+    3300004: building-cafe_T
+    3300006: building-medium
+    3300008: bunker-small_T
+    3300010: cabin-guard.000
+    3300012: cabin-guard_T
+    3300014: Circle.001
+    3300016: Pegasus-bridge_middle
+    3300018: Pegasus-bridge_start
+    3300020: Pegasus-bridge_start_end
+    3300022: pillbox.002
+    3300024: pillbox_T
+    3300026: Plane.054
+    3300028: watch-tower.001
+    3300030: watch-tower_T
+    4300000: building-medium
+    4300002: Plane.054
+    4300004: bunker-small_T
+    4300006: building-big
+    4300008: Pegasus-bridge_middle
+    4300010: Pegasus-bridge_start_end
+    4300012: Pegasus-bridge_start
+    4300014: pillbox.002
+    4300016: pillbox_T
+    4300018: watch-tower.001
+    4300020: watch-tower_T
+    4300022: cabin-guard_T
+    4300024: cabin-guard.000
+    4300026: Circle.001
+    4300028: building-cafe_T
+    4300030: building-house-big
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

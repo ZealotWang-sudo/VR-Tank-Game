@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 5ec09645dfc4043ffab150b12bf31ae6
+timeCreated: 1520382836
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: willys-wheelBackLeft
+    100004: willys-wheelBackRight
+    100006: willys-wheelFrontLeft
+    100008: willys-wheelFrontRight
+    100010: Jeep-Willys
+    100012: Jeep-Willys.001
+    100014: Cube.012
+    100016: Jeep-willys.001
+    100018: willys-wheelBackLeft.001
+    100020: willys-wheelBackRight.001
+    100022: willys-wheelFrontLeft.001
+    100024: willys-wheelFrontRight.001
+    400000: //RootNode
+    400002: willys-wheelBackLeft
+    400004: willys-wheelBackRight
+    400006: willys-wheelFrontLeft
+    400008: willys-wheelFrontRight
+    400010: Jeep-Willys
+    400012: Jeep-Willys.001
+    400014: Cube.012
+    400016: Jeep-willys.001
+    400018: willys-wheelBackLeft.001
+    400020: willys-wheelBackRight.001
+    400022: willys-wheelFrontLeft.001
+    400024: willys-wheelFrontRight.001
+    2300000: //RootNode
+    2300002: willys-wheelBackLeft
+    2300004: willys-wheelBackRight
+    2300006: willys-wheelFrontLeft
+    2300008: willys-wheelFrontRight
+    2300010: Jeep-Willys
+    2300012: Jeep-Willys.001
+    2300014: Cube.012
+    2300016: Jeep-willys.001
+    2300018: willys-wheelBackLeft.001
+    2300020: willys-wheelBackRight.001
+    2300022: willys-wheelFrontLeft.001
+    2300024: willys-wheelFrontRight.001
+    3300000: //RootNode
+    3300002: willys-wheelBackLeft
+    3300004: willys-wheelBackRight
+    3300006: willys-wheelFrontLeft
+    3300008: willys-wheelFrontRight
+    3300010: Jeep-Willys
+    3300012: Jeep-Willys.001
+    3300014: Cube.012
+    3300016: Jeep-willys.001
+    3300018: willys-wheelBackLeft.001
+    3300020: willys-wheelBackRight.001
+    3300022: willys-wheelFrontLeft.001
+    3300024: willys-wheelFrontRight.001
+    4300000: Jeep-willys
+    4300002: willys-wheelBackRight
+    4300004: willys-wheelBackLeft
+    4300006: willys-wheelFrontRight
+    4300008: willys-wheelFrontLeft
+    4300010: Jeep-Willys.001
+    4300012: Jeep-Willys
+    4300014: Jeep-willys.001
+    4300016: willys-wheelBackRight.001
+    4300018: willys-wheelBackLeft.001
+    4300020: willys-wheelFrontRight.001
+    4300022: willys-wheelFrontLeft.001
+    4300024: Cube.012
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
