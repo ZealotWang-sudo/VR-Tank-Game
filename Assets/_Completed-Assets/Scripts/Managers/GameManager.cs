@@ -31,7 +31,6 @@ namespace Complete
 
             SpawnAllTanks();
             //SetCameraTargets();
-
             // Once the tanks have been created and the camera is using them as targets, start the game.
             StartCoroutine (GameLoop ());
         }
@@ -55,7 +54,6 @@ namespace Complete
         {
             // Create a collection of transforms the same size as the number of tanks.
             Transform[] targets = new Transform[m_Tanks.Length];
-
             // For each of these transforms...
             for (int i = 0; i < targets.Length; i++)
             {
